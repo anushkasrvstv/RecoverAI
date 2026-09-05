@@ -15,6 +15,17 @@ pnpm dev
 
 Open the local preview URL printed by the dev server.
 
+### Windows
+
+`pnpm dev` uses Unix-style env syntax and won't work. Use:
+
+```bash
+pnpm install
+pnpm dev:win
+```
+
+Open the local preview URL printed by the dev server (http://localhost:3000/).
+
 ## Demo pitch
 
 Simulate a failed payment, watch the rule engine classify it in one click, retry it in demo mode, and generate a customer message without allowing AI to change the decision.
