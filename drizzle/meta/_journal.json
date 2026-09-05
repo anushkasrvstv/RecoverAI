@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788627781046,
+      "tag": "0000_wild_goliath",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788627891016,
+      "tag": "0001_puzzling_zeigeist",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1788628784645,
+      "tag": "0002_kind_ozymandias",
+      "breakpoints": true
+    }
+  ]
+}
